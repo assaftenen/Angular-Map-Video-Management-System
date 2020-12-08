@@ -1,7 +1,7 @@
 <div class="layout">
 
     <div class= "container">
-        <app-camera-list></app-camera-list>
+        <app-camera-list [camerasList] ="camerasList | async"></app-camera-list>
     </div>
     <div class= "container">
         <app-map></app-map>
