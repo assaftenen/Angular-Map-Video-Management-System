@@ -1,0 +1,14 @@
+.layout{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+.container{
+    height: 60vh;
+    background-color: rgb(221, 230, 208);
+    border-color: black;
+    margin: 5px;
+    flex: 1 1 150px;
+    text-align: center;
+}

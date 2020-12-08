@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@agm/core": "^3.0.0-beta.0",
     "@angular/animations": "~11.0.3",
     "@angular/common": "~11.0.3",
     "@angular/compiler": "~11.0.3",
@@ -24,6 +25,8 @@
     "@ngrx/router-store": "^10.1.0",
     "@ngrx/store": "^10.1.0",
     "@ngrx/store-devtools": "^10.1.0",
+    "@types/googlemaps": "^3.39.8",
+    "ngrx": "0.0.1-security",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
